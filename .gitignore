@@ -1,0 +1,4 @@
+dist/
+_cache
+.env
+.DS_Store
