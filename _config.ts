@@ -5,5 +5,6 @@ const site = lume({
 	dest: "./dist",
 });
 
+site.add("style.css")
 
 export default site;
